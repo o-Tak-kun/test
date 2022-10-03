@@ -37,3 +37,9 @@ https://bittimes.net/news/68899.html
 
 
 https://etherscan.io/tx/0x331f156072532a72cd7761daf2df47de2e1be3ca879569cd4c30a79aa448f139
+
+
+
+https://members.delphidigital.io/reports/finding-a-home-for-labs
+
+https://twitter.com/RoiSarak/status/1568419365368000512?s=20&t=vQ5MR0_EsNrYzV2ekx0E7A
