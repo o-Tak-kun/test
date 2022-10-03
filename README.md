@@ -31,6 +31,9 @@ CurrencyPortブロックチェーンの概要とビジネス応用事例
 ユーズケース
 https://www.growship.com/blockchain/
 
+TruSat
+https://bittimes.net/news/68899.html
+
 
 
 https://etherscan.io/tx/0x331f156072532a72cd7761daf2df47de2e1be3ca879569cd4c30a79aa448f139
