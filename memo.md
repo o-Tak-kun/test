@@ -1,4 +1,6 @@
 web3のソウルを理解する｜🕊ペク/Paek🕊｜note <https://note.com/kanapaek/n/n434377c34abf>
+SSI DIDs VCs 入門資料
+<https://speakerdeck.com/kayato/ssi-dids-vcs-ru-men-zi-liao?slide=40>
 
 # Blockchain Space Mission Design & Management
 SpaceChainの宇宙技術、ブロックチェーンの知見、宇宙ミッションの専門知識を活用し、企業向けにカスタマイズされた独自のソリューションを提供。
